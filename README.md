@@ -13,7 +13,7 @@ E-Commerce
 * To analyse the product's Category-wise Profit and Sales and prepare a chart for the Sales and Profit Pattern for various months.
 * To determine the Top Paying customers so that special Premium discount can be offered to such clients.
 * To find the Best Selling Products among the different segments
-* To determine the YOY growth for vmultiple Key Metrics.
+* To determine the YOY growth for multiple Key Metrics.
 
 **Installation of the Project**<br>
 * Download the workbook named as 'Ecommerce Sales Analysis'
