@@ -20,15 +20,15 @@ E-Commerce
 * 'Data' Sheet represents the combined data of all the orders of all regions,customers,sales,countries.
 * 'Dashboard' Sheet represents the main dynamic dashboard of the application with 6interactive charts, 5 KPIs and filter for ship mode and region.
 
-**Learnings**
-Dashboard Development
-Calculated Field
-Custom Charts and its Formatting
-Conditional Formatting
-YoY calculation
-Sparklines
-Filters and Sorting
-Pivot Table
+**Learnings**<br>
+* Dashboard Development
+* Calculated Field
+* Custom Charts and its Formatting
+* Conditional Formatting
+* YoY calculation
+* Sparklines
+* Filters and Sorting
+* Pivot Table
 
 **Brief Description of the dataset**<br>
 _Fields_ and its Description <br>
