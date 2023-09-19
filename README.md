@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis Dashboard (Data Analytics with Excel)
+# E-Commerce Sales Analysis Dashboard (using Excel)
 
 **Background**<br>
 E-commerce is one of the fastest growing sector as now-a-days most of the customers prefer to purchase online. More and more business houses are implementing
@@ -19,6 +19,16 @@ E-Commerce
 * Download the workbook named as 'Ecommerce Sales Analysis'
 * 'Data' Sheet represents the combined data of all the orders of all regions,customers,sales,countries.
 * 'Dashboard' Sheet represents the main dynamic dashboard of the application with 6interactive charts, 5 KPIs and filter for ship mode and region.
+
+**Learnings**
+Dashboard Development
+Calculated Field
+Custom Charts and its Formatting
+Conditional Formatting
+YoY calculation
+Sparklines
+Filters and Sorting
+Pivot Table
 
 **Brief Description of the dataset**<br>
 _Fields_ and its Description <br>
