@@ -60,6 +60,7 @@ _Profit_- Profit earned value from product's order <br>
 6. Implemented Map Chart for showcasing Sales by State.
 
 **Final Interactive Dashboard**
-![Excel dashboard](https://github.com/chahat-7/Sales-Analysis-Dashboard-Excel/assets/87649936/57935466-aff1-4442-91ce-5d3b60531c15)
+![Excel dashboard](https://github.com/chahat-7/Sales-Analysis-Dashboard-Excel/assets/87649936/8f988275-f0fc-4e75-8570-1002ae06e483)
+
 
 
